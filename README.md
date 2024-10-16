@@ -13,7 +13,6 @@
 
 #### 🙉 - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-<x-badge type="primary" text="Laravel"/>
 
 #### 🙊 - Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
