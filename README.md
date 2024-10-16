@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdAslamm)](https://github.com/MohdAslamm/github-readme-stats) /></p>
+<p>&nbsp;<img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdAslamm)](https://github.com/MohdAslamm/github-readme-stats)" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
