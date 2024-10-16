@@ -13,7 +13,7 @@
 
 #### 🙉 - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=laravel.svg&logoColor=orange&logoSize=10&label=laravel&labelColor=blue)
+![](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=laravel.svg&logoColor=orange&logoSize=10&label=laravel&labelColor=blue)
 
 
 #### 🙊 - Database:
