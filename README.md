@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github.com/MohdAslamm/github-readme-stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohdAslamm" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
