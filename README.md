@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohdAslamm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohdAslamm&hide=contribs,prs" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
