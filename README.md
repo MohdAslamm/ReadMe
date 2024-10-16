@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=MohdAslamm&show_icons=true&locale=en&theme=tokyonight" alt="MohdAslamm" /></p>
+<p>&nbsp;<img align="center" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdAslamm)](https://github.com/MohdAslamm/github-readme-stats) /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
