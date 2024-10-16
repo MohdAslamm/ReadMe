@@ -13,7 +13,7 @@
 
 #### 🙉 - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![]([https://img.shields.io/badge/laravel-orange](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=laravel.svg&logoColor=orange&logoSize=10&label=laravel&labelColor=blue)
+![](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=laravel.svg&logoColor=orange&logoSize=10&label=laravel&labelColor=blue)
 
 #### 🙊 - Database:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
